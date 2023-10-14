@@ -41,8 +41,8 @@ $(document).ready(function() {
     var typed = new Typed(".typing", {
         strings: [
             "Mechatronics Engineer",
-            "Software Developer",
-            "Python Developer",
+            "Programmer",
+            "PCB Designer",
             "Machine Designer"
         ],
         typeSpeed: 100,
@@ -53,8 +53,8 @@ $(document).ready(function() {
     var typed = new Typed(".typing-2", {
         strings: [
             "Mechatronics Engineer",
-            "Software Developer",
-            "Python Developer",
+            "Programmer",
+            "PCB Designer",
             "Machine Designer"
         ],
         typeSpeed: 100,
